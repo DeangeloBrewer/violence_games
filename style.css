@@ -1,6 +1,7 @@
 #body{
     font-family: 'Play', sans-serif;
     background-color: skyblue;
+
 }
 
 
@@ -30,4 +31,39 @@
 .topnav a.active {
   background-color: rgb(76, 119, 175);
   color: white;
+}
+
+#list{
+    width: 300px;
+    background-color: whitesmoke;
+    border: 15px solid black;
+    padding: 50px;
+    margin: 20px;
+}
+
+h2{
+    text-shadow: 2px 2px white;
+    text-align: center;
+}
+
+h3{
+    text-shadow: 2px 2px black;
+    text-align: center;
+}
+
+
+textarea{
+    border-style: outset;
+}
+
+.rounded{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#caption{
+    font-size: small;
+    text-align: center;
 }
