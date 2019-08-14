@@ -41,9 +41,10 @@
     margin: 20px;
 }
 
-h2{
+#heading{
     text-shadow: 2px 2px white;
     text-align: center;
+    padding: 25px;
 }
 
 h3{
